@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4584c1ca-8e8d-4419-bd3c-f2e4a1f700b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework2.html" afterDir="false" />
     </list>
@@ -43,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580318799640</updated>
-      <workItem from="1580318814196" duration="2814000" />
+      <workItem from="1580318814196" duration="4597000" />
     </task>
     <task id="LOCAL-00001" summary="CSS">
       <created>1580318999764</created>
