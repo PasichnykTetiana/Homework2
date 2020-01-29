@@ -1,0 +1,37 @@
+/*#image {
+body{
+        margin-top: -120px;
+        text-align: left;
+
+        padding: 200px;
+        margin-right: 100px;
+      }
+
+ */
+
+body {text-align: left;
+    margin-top: -120px;
+    padding: 200px;
+    }
+#main {
+    background: #eee;
+}
+.header {
+    text-align: center; */
+
+
+#title{
+    font-size: 64px;
+}
+/*#img-div {
+    border: white solid 1px;
+    background: white;
+    padding: 3px;
+    text-align: center;
+    margin: 30px;
+}*/
+#img-caption {font-size: 18px;}
+p{
+    font-size: 18px;
+    padding: 5px;
+}
